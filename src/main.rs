@@ -3,6 +3,8 @@ mod basictypes4;
 mod ownership5;
 mod flowcontrol7;
 // chp3
+mod hackerrank;
+mod compoundtypes6;
 
 fn main() {
     println!("Hello, world!");
