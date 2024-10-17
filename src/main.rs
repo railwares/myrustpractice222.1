@@ -6,6 +6,7 @@ mod flowcontrol7;
 mod hackerrank;
 mod compoundtypes6;
 mod pattermatch8;
+mod method9;
 
 fn main() {
     println!("Hello, world!");
