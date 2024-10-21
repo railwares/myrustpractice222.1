@@ -1,5 +1,5 @@
 #[test]
-fn test0() {
+fn rhombus() {
     const SIZE: u8 = 11;
     let half = SIZE / 2;
 
