@@ -8,6 +8,8 @@ mod compoundtypes6;
 mod pattermatch8;
 mod method9;
 mod practice;
+mod generics10;
+mod collectiontypes11;
 
 fn main() {
     println!("Hello, world!");
