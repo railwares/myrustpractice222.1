@@ -2,3 +2,8 @@ mod pr4rhombus;
 mod pr5envelope;
 mod pr6gcd;
 mod pr7tree;
+mod pr8caseswitch;
+mod pr9isp_prime;
+mod pr10string_rotate;
+mod pr11palindrome;
+mod pr12ranvec;
