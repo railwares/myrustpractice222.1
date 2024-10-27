@@ -7,3 +7,7 @@ mod pr9isp_prime;
 mod pr10string_rotate;
 mod pr11palindrome;
 mod pr12ranvec;
+mod pr13shipments;
+mod pr14overlaparea;
+mod pr15graycode;
+mod pr16muxaslon;
