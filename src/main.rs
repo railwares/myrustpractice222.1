@@ -10,6 +10,7 @@ mod method9;
 mod practice;
 mod generics10;
 mod collectiontypes11;
+mod exam_rustbyprac;
 
 fn main() {
     println!("Hello, world!");
